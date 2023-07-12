@@ -31,7 +31,10 @@
 - 저런닷컴 - 🤔
 
 # <a id="preview"></a> 👀 프리뷰
-none
+![image](https://github.com/Yubir/KkuTwo/assets/101859341/e0d889f9-b63d-4e52-b138-d7842fd04ee3)
+![image](https://github.com/Yubir/KkuTwo/assets/101859341/1cc7df7a-1f39-4d60-8bed-d7e5443c9c7e)
+![image](https://github.com/Yubir/KkuTwo/assets/101859341/2405c6a6-3c99-434c-b4e2-fbddba0a1de3)
+
 
 # <a id="how2use"></a> 📙 사용법
 none
