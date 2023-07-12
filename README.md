@@ -5,7 +5,7 @@
 - 2️⃣ [KKuTwo를 사용하는 모습을 보여주세요! (클릭)](#preview)
 - 3️⃣ [KKuTwo를 어떻게 사용하나요? (클릭)](#how2use)
 
-<a id="status"># 정지 현황</a>
+<a id="status"></a> 🚫 정지 현황
 ```
 ✅ : 사용가능
 
@@ -29,7 +29,7 @@
 - 행성끄투 - 🤔
 - 저런닷컴 - 🤔
 
-# <a id="preview">👀 프리뷰</a>
+# <a id="preview"></a> 👀 프리뷰
 none
 
 # <a id="how2use">📙 사용법</a>
