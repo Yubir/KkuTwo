@@ -29,8 +29,8 @@
 - 행성끄투 - 🤔
 - 저런닷컴 - 🤔
 
-# <a id="preview"># 프리뷰</a>
-asd
+# <a id="preview">👀 프리뷰</a>
+none
 
-# <a id="how2use"># 사용법</a>
-asd
+# <a id="how2use">📙 사용법</a>
+none
