@@ -1,3 +1,6 @@
+# EXE 버전 다운로드
+**https://github.com/Yubir/KkuTwo/releases**
+
 # <a id="top"></a>❓ KKuTwo Helper 란?
 1. 끄투를 좀 더 편하고 재밌게 하기 위해 만든 프로그램
 2. 프로그램에서 글자를 클릭하면 자동으로 입력하는 프로그램
