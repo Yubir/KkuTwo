@@ -1,3 +1,5 @@
+<img src="img/KKuTwo-logo.png" />
+
 # EXE 버전 다운로드
 **https://github.com/Yubir/KkuTwo/releases**
 
