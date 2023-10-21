@@ -1,7 +1,9 @@
 <img src="img/KKuTwo-logo.png" />
 
-# EXE 버전 다운로드
-**https://github.com/Yubir/KkuTwo/releases**
+# 📢 공지 !
+EXE 버전 - **https://github.com/Yubir/KkuTwo/releases**
+
+크롬 118 업데이트 버전 - **https://github.com/Yubir/KkuTwo/tree/main/chrome-118**
 
 # <a id="top"></a>❓ KKuTwo Helper 란?
 1. 끄투를 좀 더 편하고 재밌게 하기 위해 만든 프로그램
