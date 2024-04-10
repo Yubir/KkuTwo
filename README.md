@@ -5,6 +5,8 @@ EXE 버전 - **https://github.com/Yubir/KkuTwo/releases**
 
 크롬 118 업데이트 버전 - **https://github.com/Yubir/KkuTwo/tree/main/chrome-118**
 
+(2024-04-11) 따로 추가적으로 테스트를 해봤는데 chrome-118 다운받으시고 현재 사용하시는 크롬 버전에 맞는 크롬드라이버를 app.py와 같은 폴더 경로에 놔두시면 작동해요.
+
 # <a id="top"></a>❓ KKuTwo Helper 란?
 1. 끄투를 좀 더 편하고 재밌게 하기 위해 만든 프로그램
 2. 프로그램에서 글자를 클릭하면 자동으로 입력하는 프로그램
